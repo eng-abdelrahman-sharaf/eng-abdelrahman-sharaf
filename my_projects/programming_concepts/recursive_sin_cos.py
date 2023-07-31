@@ -1,4 +1,3 @@
-# please read sin_and_cos.md first
 # making sin and cos using recursion 
 
 pi = 3.14159265358979323846
