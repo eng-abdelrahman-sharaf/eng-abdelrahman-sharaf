@@ -3,7 +3,6 @@
 from math import floor
 from time import sleep
 from sys import argv
-
 def loading_bar(percentage ,time = 0.05):
         # max percentage is 100%
         if percentage>1:

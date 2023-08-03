@@ -11,18 +11,18 @@ test cases
   """
 
 
-def regular_febo(n):
+def regular_fibo(n):
 
         if n == 1 or n == 2: 
             return 1
 
         else:
-             return regular_febo(n-1) + regular_febo(n-2) 
+             return regular_fibo(n-1) + regular_fibo(n-2) 
 
 
 memo = dict()
 
-def febo(n):
+def fibo(n):
 
     try:
 
@@ -35,17 +35,17 @@ def febo(n):
             return 1
         
         else: 
-            result = febo(n-1) + febo(n-2)
+            result = fibo(n-1) + fibo(n-2)
             memo [n] = result
             return result
 
 # let's inject some data into memo
-for i in ([5, 4, 7, 11]):
-    febo(i)
+for i in [10,100,1000]:
+    fibo(i)
 
 # let's test
-for i in ([45 , 70 , 457]):
-    print(febo(i))
+for i in ([45 , 70 , 458]):
+    print(fibo(i))
 
 
 # # I advise you not to uncomment this
