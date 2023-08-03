@@ -1,7 +1,7 @@
 ﻿# programming concepts
 
 ## fibonacci O(1) 😎 (python)
-This fibonacci depends on a formula that doesn't use sigma and has O(1)
+This fibonacci depends on a formula that doesn't use sigma and has O(1) time complexity 
 
 The formula
 
