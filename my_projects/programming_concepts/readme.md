@@ -12,6 +12,7 @@ This concept makes the recursive computation much faster as from its name it mem
 
 ## loading bar without GUI 🚀🚀 (python)
 This loading bar look like I used GUI but Trust me I didn't
+
 ![loading_bar](image.png)
 
 ## recursive sin cos  (python)
