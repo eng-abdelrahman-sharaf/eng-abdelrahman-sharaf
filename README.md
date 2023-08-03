@@ -6,4 +6,4 @@ edit your role at Faculty of Engineering
 # - 👀 I’m 
 # - 📝 I am a student at Faculty of Engineering in the field of computer and comnunication
 # - 📫 to reach me eng.abdelrahman.sharaf@gmail.com
-<!-- include: ./my_projects/readme.md -->
+# - 💪 [my_projects](./my_projects/readme.md)
