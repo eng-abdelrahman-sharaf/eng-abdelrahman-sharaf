@@ -1,3 +1,10 @@
+"""
+in this source you have 3 controllers
+- sleep for the speed of rotation
+- z_pace also for the speed of rotation
+- x_pace for precision
+"""
+
 from math import ceil , sqrt
 from time import sleep
 
@@ -18,7 +25,7 @@ o_x = ceil(20 * 16/9)
 o_y = 20
 
 # x pace controls the shape of the circle
-x_pace = 0.1
+x_pace = 0.05
 sign = 1 # the sign of x pace 
 
 # z pace controls the rotation speed 
@@ -89,8 +96,8 @@ try:
             x_pace*=-1
 
 
-        
-        sleep(0.03)
+        # it also controls the speed of rotation
+        sleep(0.02)
 
 
 
