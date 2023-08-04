@@ -1,7 +1,7 @@
 ﻿# programming concepts
 
 ## fibonacci O(1) 😎 (python)
-This fibonacci depends on a formula that doesn't use sigma and has O(1) time complexity 
+This fibonacci depends on a formula that doesn't use sigma and has O(1)
 
 The formula
 
@@ -9,11 +9,6 @@ The formula
 
 ## memoization 🧠 (python)
 This concept makes the recursive computation much faster as from its name it memorizes old answers
-
-## loading bar without GUI 🚀🚀 (python)
-This loading bar look like I used GUI but Trust me I didn't
-
-![loading_bar](image.png)
 
 ## recursive sin cos  (python)
 Here I used recursion to make sin and cos 
