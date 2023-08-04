@@ -7,7 +7,7 @@ file = open("circle.data" , "w+")
 def plot(x , y):
     file.write(f"\033[{y};{x}f.")
 
-r = 15
+r = 10
 
 # erase the cursor
 print("\033[?25l")
@@ -19,6 +19,7 @@ o_y = 20
 
 # x pace controls the shape of the circle
 x_pace = 0.1
+sign = 1 # the sign of x pace 
 
 # z pace controls the rotation speed 
 z_pace = 1
@@ -39,8 +40,8 @@ try:
         # saving z value
         save = z
 
-        x = -r 
-        while x<=r:
+        x = -r * sign 
+        while x<=r and x>=-r:
             y  = (r**2 - x**2)**0.5
             if abs(z) > abs(x) : z = x 
             if x >=0 : x_ = sqrt(x**2-z**2)
@@ -84,10 +85,12 @@ try:
         if z in [r , -r]:
             # z_pace *= - the_sign_of_r
             z_pace = abs(z_pace) * -1 *sqrt(z**2)/z
+            sign *= -1
+            x_pace*=-1
 
 
         
-        sleep(0.04)
+        sleep(0.03)
 
 
 
