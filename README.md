@@ -1,1 +1,1 @@
-# NO way
+# 1 way
