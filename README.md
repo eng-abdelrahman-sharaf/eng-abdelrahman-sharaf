@@ -1,1 +1,1 @@
-# 1 way
+go go go
