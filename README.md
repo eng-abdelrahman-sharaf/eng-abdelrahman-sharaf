@@ -4,9 +4,15 @@
 <h3>About me:<h3>
 <ul align="left">
 
--   🔭 I’m currently working on **BLokkah (frontend developer)**
--   📫 I am looking forward to make use of Robotics and ML to help me in my career
--   📄 Know about my experiences [cv](link)
+-   🔭 I’m currently working as a **frontend developer at Blokkah**
+-   🤖 I'm a member of  **Torpedo Robotics Team** (Computer Vision Subteam)
+-   🌱 I’m continuously learning new things and it's **awesome**!
+-   🤝 I’m looking to collaborate on **open source projects** and **startups**
+-   💬 Feel free to ask me about **frontend development** and **computer vision**
+-   ⚡ Fun fact: I still enjoy watching **cartoons** 🤩
+
+
+
 </ul>
 
 <h3>Connect with me:</h3>
