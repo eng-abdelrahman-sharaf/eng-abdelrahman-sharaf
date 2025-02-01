@@ -12,6 +12,8 @@
     <a style="text-decoration:none;" href="mailto:eng.abdelrahman.sharaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
 
+<!--START_SECTION:activity-->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a style="text-decoration:none;" href="https://www.arduino.cc/"  rel="noreferrer">
