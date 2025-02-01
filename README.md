@@ -8,9 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/eng-abdelrahman-sharaf"><img
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-    <a href="mailto:eng.abdelrahman.sharaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white
-"></a>
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="connect on linkedin"></a>
+    <a href="mailto:eng.abdelrahman.sharaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
