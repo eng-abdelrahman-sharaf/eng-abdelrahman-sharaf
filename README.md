@@ -1,21 +1,25 @@
-<h3 align="center"><i>Hi 👋, I'm Abdelrahman Sharaf</i></h3>
+<div align="center">
+<h1 align="center"><i>Hi 👋, I'm Abdelrahman Sharaf</i></h1>
 <h3 align="center">A passionate developer with experience in frontend and computer vision</h3>
+<h3>About me:<h3>
+<ul align="left">
 
 -   🔭 I’m currently working on **BLokkah (frontend developer)**
 -   📫 I am looking forward to make use of Robotics and ML to help me in my career
 -   📄 Know about my experiences [cv](link)
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
+    <a style="text-decoration:none;" href="mailto:eng.abdelrahman.sharaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="gmail" height="30px"></a>
     <a style="text-decoration:none;" href="https://linkedin.com/in/eng-abdelrahman-sharaf"><img
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="connect on linkedin"></a>
-    <a style="text-decoration:none;" href="mailto:eng.abdelrahman.sharaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="gmail"></a>
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="connect on linkedin" height="30px"></a>
 </p>
 
-<!--START_SECTION:activity-->
+<div > <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/top-langs/?username=eng-abdelrahman-sharaf&size_weight=0.5&count_weight=0.5&layout=donut-vertical&hide=cmake"/></div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 >Languages and Tools:</h3>
+<p >
     <a style="text-decoration:none;" href="https://www.arduino.cc/"  rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
     </a>
@@ -88,3 +92,4 @@
     </a>
 
 </p>
+</div>
