@@ -10,10 +10,10 @@ Right now, I’m splitting my time between **frontend development** (mostly Reac
 - **Frontend Developer @ Blokkah (PropTech Startup, Saudi Arabia)**  
   Helping build a real estate platform from scratch. Worked on everything from turning 50+ Figma designs into a live Next.js app, to SEO, multi-domain setup, dashboards, and even integrating an AI chatbot for property search.  
 
-- **Computer Vision @ Torpedo ROV Team**  
+- **Computer Vision @ Torpedo (ROV Team Competes in Prestigious Robotics Competitions like MATE ROV)**  
   Training models and writing vision code for our underwater robots. Used YOLO where classical methods failed, built a GUI for pilots, and tested everything in Gazebo before hardware integration.  
 
-- **ACM Alexandria (Volunteer)**  
+- **Public Relations @ ACM Alexandria (Oldest ACM Student Chapter and Winner of ACM Excellence Awards)**  
   Handled PR, helped organize events, and even landed a sponsorship that funded a 2-week Flutter bootcamp for students.  
 
 ---
