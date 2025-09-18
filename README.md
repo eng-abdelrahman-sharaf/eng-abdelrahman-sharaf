@@ -14,7 +14,7 @@ Right now, I’m splitting my time between **frontend development** (mostly Reac
   Training models and writing vision code for our underwater robots. Used YOLO where classical methods failed, built a GUI for pilots, and tested everything in Gazebo before hardware integration.  
 
 - **Public Relations @ ACM Alexandria (Oldest ACM Student Chapter and Winner of ACM Excellence Awards)**  
-  Handled PR, helped organize events, and even landed a sponsorship that funded a 2-week Flutter bootcamp for students.  
+  Handled PR, helped organize events, coordinated with sponsors, and worked on bringing industry experts to give students real-world insights.
 
 ---
 
