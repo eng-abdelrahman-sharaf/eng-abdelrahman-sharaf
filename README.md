@@ -22,6 +22,117 @@
 
 <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQFAK8eVjuAAQg/profile-displaybackgroundimage-shrink_350_1400/B4DZmhZHZIG8AY-/0/1759349340555?e=1765411200&v=beta&t=qstVkcLV5DKIc3YXrRcmPgv76swfUL32xJduRjvPIXc" alt="My Professional Journey" title="My Professional Journey"/>
 
+<details align="center" width="100%" style="margin-bottom:12px;" open>
+    <summary style="font-size:18px; font-weight:700; margin-bottom:8px;">Pathways</summary>
+    <table width="100%" align="center">
+        <!-- Blokkah -->
+        <tr width="100%">
+            <td valign="center" align="center" width="120px">
+                <img src="assets/blokkah.png"
+                    alt="Blokkah Real Estate Logo" width="100%">
+            </td>
+            <td valign="center">
+                <div>
+                    <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Frontend Engineer</div>
+                    <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
+                        <a href="https://www.linkedin.com/company/blokkah-app/">Blokkah Real Estate Platform</a> — Remote
+                    </div>
+                    <div style="font-size:13px; color:#DDD;">
+                        PropTech Startup in Saudi Arabia
+                    </div>
+                    <div style="font-size:13px; color:#555;">
+                        <b>June 2023 - Present</b> · Part-Time<br>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <!-- ACM Alexandria Student Chapter -->
+        <tr width="100%">
+            <td valign="center" align="center" width="120px">
+                <img src="assets/acm.png"
+                    alt="ACM Alexandria Student Chapter Logo" width="100%">
+            </td>
+            <td valign="center">
+                <div>
+                    <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Public Relations Volunteer</div>
+                    <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
+                        <a href="https://www.linkedin.com/company/alexacm/">ACM Student Chapter</a> — Hybrid
+                    </div>
+                    <div style="font-size:13px; color:#EEE;">
+                        Oldest ACM Student Chapter and Winner of ACM Excellence Awards
+                    </div>
+                    <div style="font-size:13px; color:#555;">
+                        <b>Aug 2024 - Present</b>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <!-- Torpedo ROV -->
+        <tr width="100%">
+            <td valign="center" align="center" width="120px">
+                <img src="assets/torpedo.png"
+                    alt="Torpedo ROV Logo" width="100%">
+            </td>
+            <td valign="center">
+                <div>
+                    <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Head of AI Sub-Team</div>
+                    <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
+                        <a href="https://www.linkedin.com/company/torpedorov/">Torpedo ROV</a> — On-site
+                    </div>
+                    <div style="font-size:13px; color:#EEE;">
+                        Underwater Robotics Team Competes in Prestigious Competitions like MATE ROV
+                    </div>
+                    <div style="font-size:13px; color:#555;">
+                        <b>Jul 2024 - Present</b>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <!-- NeuralSeek -->
+        <tr width="100%">
+            <td valign="center" align="center" width="120px">
+                <img src="assets/neuralseek.png"
+                    alt="NeuralSeek Logo" width="100%">
+            </td>
+            <td valign="center">
+                <div>
+                    <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Global AI Agent Builder Intern</div>
+                    <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
+                        <a href="https://www.linkedin.com/company/neuralseek/">NeuralSeek</a> — Remote
+                    </div>
+                    <div style="font-size:13px; color:#EEE;">
+                        No-code platform orchestrating LLM-based AI agents with governance, human review, observability, and integrations
+                    </div>
+                    <div style="font-size:13px; color:#555;">
+                        <b>Oct 2025 - Nov 2025</b> · Internship<br>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <!-- M.I.A. Robotics -->
+        <tr width="100%">
+            <td valign="center" align="center" width="120px">
+                <img src="assets/mia.png"
+                    alt="M.I.A. Robotics Logo" width="100%">
+            </td>
+            <td valign="center">
+                <div>
+                    <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Electrical Sub-Team Member</div>
+                    <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
+                        <a href="https://www.linkedin.com/company/mia-robotics/">M.I.A. Robotics</a> — On-site
+                    </div>
+                    <div style="font-size:13px; color:#EEE;">
+                        Robotics Team Participating in Competitions like MATE ROV and Micro Mouse
+                    </div>
+                    <div style="font-size:13px; color:#555;">
+                        <b>Aug 2023 - Dec 2023</b>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</details>
+
 <h2>
     Featured Projects
 </h2>
