@@ -17,10 +17,25 @@
 </div>
 
 <h2>
-    My Professional Journey
+    Professional Journey
 </h2>
 
 <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQFAK8eVjuAAQg/profile-displaybackgroundimage-shrink_350_1400/B4DZmhZHZIG8AY-/0/1759349340555?e=1765411200&v=beta&t=qstVkcLV5DKIc3YXrRcmPgv76swfUL32xJduRjvPIXc" alt="My Professional Journey" title="My Professional Journey"/>
+
+<h2>
+    Featured Projects
+</h2>
+
+<a href="https://www.github.com/eng-abdelrahman-sharaf/canvas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=canvas" alt="Canvas Repository" title="Canvas Repository"/>
+</a>
+<a href="https://www.github.com/eng-abdelrahman-sharaf/connect-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=connect-hub" alt="Connect Hub Repository" title="Connect Hub Repository"/>
+</a>
+<a href="https://www.github.com/eng-abdelrahman-sharaf/avl-vs-bst">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=avl-vs-bst" alt="AVL vs BST Repository" title="AVL vs BST Repository"/>
+</a>
+
 
 <h2>
     Skills & Technologies
