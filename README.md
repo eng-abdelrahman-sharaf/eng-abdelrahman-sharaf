@@ -23,7 +23,7 @@
 <img width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQFAK8eVjuAAQg/profile-displaybackgroundimage-shrink_350_1400/B4DZmhZHZIG8AY-/0/1759349340555?e=1765411200&v=beta&t=qstVkcLV5DKIc3YXrRcmPgv76swfUL32xJduRjvPIXc" alt="My Professional Journey" title="My Professional Journey"/>
 
 <details align="center" width="100%" style="margin-bottom:12px;" open>
-    <summary style="font-size:18px; font-weight:700; margin-bottom:8px;">Pathways</summary>
+    <summary style="font-size:18px; font-weight:700; margin-bottom:8px;"><h3>Pathways</h3></summary>
     <table width="100%" align="center">
         <!-- Blokkah -->
         <tr width="100%">
@@ -31,7 +31,7 @@
                 <img src="assets/blokkah.png"
                     alt="Blokkah Real Estate Logo" width="100%">
             </td>
-            <td valign="center">
+            <td valign="center" align="left">
                 <div>
                     <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Frontend Engineer</div>
                     <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
@@ -52,7 +52,7 @@
                 <img src="assets/acm.png"
                     alt="ACM Alexandria Student Chapter Logo" width="100%">
             </td>
-            <td valign="center">
+            <td valign="center" align="left">
                 <div>
                     <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Public Relations Volunteer</div>
                     <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
@@ -73,7 +73,7 @@
                 <img src="assets/torpedo.png"
                     alt="Torpedo ROV Logo" width="100%">
             </td>
-            <td valign="center">
+            <td valign="center" align="left">
                 <div>
                     <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Head of AI Sub-Team</div>
                     <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
@@ -94,7 +94,7 @@
                 <img src="assets/neuralseek.png"
                     alt="NeuralSeek Logo" width="100%">
             </td>
-            <td valign="center">
+            <td valign="center" align="left">
                 <div>
                     <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Global AI Agent Builder Intern</div>
                     <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
@@ -115,7 +115,7 @@
                 <img src="assets/mia.png"
                     alt="M.I.A. Robotics Logo" width="100%">
             </td>
-            <td valign="center">
+            <td valign="center" align="left">
                 <div>
                     <div style="font-size:16px; font-weight:600; margin-bottom:2px;">Electrical Sub-Team Member</div>
                     <div style="font-size:13px; font-style:italic; margin-bottom:6px;">
@@ -146,7 +146,6 @@
 <a href="https://www.github.com/eng-abdelrahman-sharaf/avl-vs-bst">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=avl-vs-bst" alt="AVL vs BST Repository" title="AVL vs BST Repository"/>
 </a>
-
 
 <h2>
     Skills & Technologies
