@@ -138,19 +138,19 @@
         Featured Projects
     </h2>
     <a href="https://www.github.com/eng-abdelrahman-sharaf/canvas">
-        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=canvas"
+        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=canvas&description_lines_count=1"
             alt="Canvas Repository" title="Canvas Repository" />
     </a>
     <a href="https://www.github.com/eng-abdelrahman-sharaf/connect-hub">
-        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=connect-hub"
+        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=connect-hub&description_lines_count=1"
             alt="Connect Hub Repository" title="Connect Hub Repository" />
     </a>
     <a href="https://www.github.com/eng-abdelrahman-sharaf/avl-vs-bst">
-        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=avl-vs-bst"
+        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=avl-vs-bst&description_lines_count=1"
             alt="AVL vs BST Repository" title="AVL vs BST Repository" />
     </a>
     <a href="https://github.com/eng-abdelrahman-sharaf/croco.care-frontend">
-        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=croco.care-frontend"
+        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=croco.care-frontend&description_lines_count=1"
             alt="Croco Care Frontend Repository" title="Croco Care Frontend Repository" />
     </a>
     <h2>
