@@ -20,7 +20,7 @@
         Professional Journey
     </h2>
     <img width="100%"
-        src="https://media.licdn.com/dms/image/v2/D4D16AQFAK8eVjuAAQg/profile-displaybackgroundimage-shrink_350_1400/B4DZmhZHZIG8AY-/0/1759349340555?e=1765411200&v=beta&t=qstVkcLV5DKIc3YXrRcmPgv76swfUL32xJduRjvPIXc"
+        src="assets/professional-journey.png"
         alt="My Professional Journey" title="My Professional Journey" />
     <details align="center" width="100%" style="margin-bottom:12px;" open>
         <summary style="font-size:18px; font-weight:700; margin-bottom:8px;">
