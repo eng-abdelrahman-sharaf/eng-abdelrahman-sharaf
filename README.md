@@ -149,9 +149,9 @@
         <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=avl-vs-bst&description_lines_count=1"
             alt="AVL vs BST Repository" title="AVL vs BST Repository" />
     </a>
-    <a href="https://github.com/eng-abdelrahman-sharaf/croco.care-frontend">
-        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=croco.care-frontend&description_lines_count=1"
-            alt="Croco Care Frontend Repository" title="Croco Care Frontend Repository" />
+    <a href="https://github.com/eng-abdelrahman-sharaf/book-system">
+        <img src="https://github-readme-stats-abdelrahman-mostafa-kamels-projects.vercel.app/api/pin/?username=eng-abdelrahman-sharaf&repo=book-system&description_lines_count=1"
+            alt="Book Store System Repository" title="Book Store System Repository" />
     </a>
     <h2>
         Skills & Technologies
